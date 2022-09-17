@@ -7,5 +7,5 @@ Observando a documentação apresentada da API foram realizados os cenarios para
 - Cenário 1: Valida o status code do response;
 - Cenário 2: Valida a mensagem de erro.
 
-#Design Partterns
+# Design Partterns
 No primeiro cenário foi introduzido o padrão de Page Object para encapsular os dados.
